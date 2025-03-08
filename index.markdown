@@ -1,8 +1,11 @@
-# Anjaney A B Portfolio
+# Welcome to My Portfolio
 
-This is a paragraph about me...
+Hello! I'm Anjaney, a web development student at Humber College. 
 
-[About me](index)
-[Employment] (employment)
-[Education](education)
-[Contact](contact)
+## About Me
+- Passionate about web development and programming.
+- Interested in building modern and responsive websites.
+- Aspiring professional eFootball gamer.
+
+[View My Projects](projects.markdown) | [Contact Me](contact.markdown)
+
